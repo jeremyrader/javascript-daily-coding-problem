@@ -2,9 +2,8 @@
   "name": "daily-coding-problem",
   "version": "1.0.0",
   "description": "",
-  "main": "product-all-other-elements.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava"
   },
   "keywords": [],
   "author": "",
